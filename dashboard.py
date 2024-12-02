@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt  
 
 # Load the data
 top_5_products = pd.read_csv('top_5_products.csv')  # Ganti path sesuai file Anda
