@@ -5,5 +5,5 @@ This project focuses on analyzing e-commerce sales data with a particular emphas
 
 In this project, the analysis specifically addresses the following business questions:
 
-Which product (product_id) has the highest sales volume?
-Which state has the highest number of purchases?
+1. Which product (product_id) has the highest sales volume?
+2. Which state has the highest number of purchases?
